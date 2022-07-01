@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "991208947535",
+    "project_id": "meetmefit-assignment",
+    "storage_bucket": "meetmefit-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991208947535:android:dc4f4086f42398e9928f3a",
+        "android_client_info": {
+          "package_name": "com.example.meetmefit_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991208947535-v284e9jda107lhuupt00adga50rnio66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJSaA9IwD0DNCMk5Ip--qiF4RvyQcf1s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991208947535-v284e9jda107lhuupt00adga50rnio66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991208947535-g0buu62jr5q7i12ghd3inagk7k33dtb2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meetmefitAssignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
